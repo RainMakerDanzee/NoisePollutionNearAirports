@@ -6,3 +6,5 @@ DATASET: https://data.nsw.gov.au/data/dataset/epi-protection-airport-noise?nsw_p
 We call this Airport Noise Exposure Score (ANES) - a sub-component of the Environmental Comfort Index, derived from proximity to airport noise zones
 Formula used: ANES = 100 - (Noise_Zone_Level / Max_Noise_Level) * 100
 Lower decibel zones get higher scores.
+
+A score of a 100 means not affected by airport noise at all, a score of 0 indicates otherwise.
